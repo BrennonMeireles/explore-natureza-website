@@ -1,0 +1,31 @@
+main {
+    width: 100%;
+    background-color: aliceblue;
+}
+
+#um {
+    width: 50%;
+    background-color: rgb(224, 64, 64);
+}
+
+#um p {
+    color:black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+
+#dois {
+    width: 50%;
+    background-color: blue;
+
+}
+
+#dois p {
+color: azure;
+font-size: 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 10px;
+text-align: center;
+
+}
