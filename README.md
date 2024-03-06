@@ -23,11 +23,3 @@ O projeto consiste em um website que busca transmitir a beleza e tranquilidade d
 ## Como Contribuir
 
 Se você gostaria de contribuir com este projeto, sinta-se à vontade para abrir uma issue para discutir novas ideias, relatar problemas ou propor melhorias. Pull requests são bem-vindos!
-
-## Autor
-
-Este projeto foi desenvolvido por [Seu Nome] como parte do curso no SENAI.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença XYZ]. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
