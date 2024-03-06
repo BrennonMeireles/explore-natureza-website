@@ -1,4 +1,4 @@
-# Projeto de Website de Viagem 
+# Website de Viagem 
 
 Este projeto foi desenvolvido como parte do curso no SENAI, visando entender os fundamentos do HTML, CSS e Figma. O site tem como tema a natureza e foi prototipado utilizando o Figma.
 
