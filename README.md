@@ -6,6 +6,13 @@ Este projeto foi desenvolvido como parte do curso no SENAI, visando entender os 
 
 O projeto consiste em um website que busca transmitir a beleza e tranquilidade da natureza através de um design inspirado na flora e fauna. Foram aplicados os conceitos aprendidos no curso para construir a estrutura do site em HTML e estilizá-lo utilizando CSS.
 
+<br>
+<div align="center">
+  <img src="https://github.com/BrennonMeireles/tela-login/assets/141636246/c67e5e92-916f-4737-97b2-aca27fe2164c" alt="image" width="300px">
+</div>
+
+<br>
+
 ## Características
 
 - **Design Inspirado na Natureza**: O layout do site foi elaborado com inspiração na natureza, utilizando cores, imagens e elementos que remetem ao ambiente natural.
