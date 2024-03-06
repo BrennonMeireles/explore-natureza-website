@@ -19,6 +19,12 @@ O projeto consiste em um website que busca transmitir a beleza e tranquilidade d
   
 - **Prototipagem no Figma**: Antes do desenvolvimento, o projeto foi prototipado no Figma para planejar a estrutura e o design do site de forma visual.
 
+## Prototipagem no Figma 🎨
+
+Você pode visualizar o protótipo deste projeto no Figma:
+
+[Link para o projeto no Figma](https://www.figma.com/file/RsPuPnmFxFGYeSvrMj28iX/lima-28%2F08%2F2023?type=design&node-id=0%3A1&mode=design&t=sQTUVOUx4XS1n8n1-1)
+
 ## Ferramentas Utilizadas ⚙️
 
 - **HTML**: Utilizado para criar a estrutura do site, incluindo elementos como cabeçalho, rodapé, navegação e conteúdo.
