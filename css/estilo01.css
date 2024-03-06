@@ -18,15 +18,16 @@ header{
 }
 
 #img_fundo{
-width: 400px;
-height: 360px;
-margin-bottom: -340px;
+    width: 400px;
+    height: 360px;
+    margin-bottom: -340px;
 }
+
 #container{
     margin: auto;
     width: 400px;
-
 }
+
 #buscar{
     font-size: 16px;
     height: 50px;
@@ -40,6 +41,7 @@ margin-bottom: -340px;
     margin-left: 30px;
     margin-top: 35px;
 }
+
 #img_lupa{
     width: 25px;
     height: 25px;
@@ -47,6 +49,7 @@ margin-bottom: -340px;
     margin-bottom: -10px;
     filter: opacity(0.3);
 }
+
 #titulo{
     width: 340px;
     color: #fff;
@@ -56,8 +59,8 @@ margin-bottom: -340px;
     text-transform: uppercase;
     margin-top: 130px;
     margin-left: 30px;
-
 }
+
 #slide_florestas{
     width: 140px;
     height: 140px;
@@ -65,6 +68,7 @@ margin-bottom: -340px;
     margin-left: 20px;
     border-radius: 5px 5px 0 0;
 }
+
 #p_flore{
     color: black;
     text-transform: capitalize;
@@ -80,6 +84,7 @@ margin-bottom: -340px;
     margin-top: -8px;
     box-shadow: 0 4px 8px rgb(0 , 0 , 0 , 0.2);           
 }
+
 #folha{
     width: 25px;
     height: 25px;
@@ -105,6 +110,7 @@ margin-bottom: -340px;
     margin-bottom: 40px;
     filter: opacity(0.3);
 }
+
 #p_prai{
     color: black;
     text-transform: capitalize;
@@ -119,7 +125,6 @@ margin-bottom: -340px;
     box-shadow: 0 4px 8px rgb(0 , 0 , 0 , 0.2);
     font-family: 'Roboto',sans-serif;
     font-weight: bold
-    
 }
 
 #footer{
@@ -129,155 +134,78 @@ margin-bottom: -340px;
 }
 
 #p_saiba_mais {
-
     font-size: 16px;
-
     text-transform: uppercase;
-
     color: #FFFFFF;
-
     font-family: 'Roboto', sans-serif;
-
     padding-left: 40px;
-
     padding-top: 20px;
-
 }
-
- 
 
 #ret_um {
-
     width: 2px;
-
     height: 8px;
-
     background-color: #404040;
-
     margin-top: -145px;
-
     margin-left: 40px;
-
 }
-
- 
 
 #p_empresa {
-
     font-size: 12px;
-
     font-family: 'Roboto', sans-serif;
-
     color: #cfcfcf;
-
     margin-top: -15px;
-
     margin-left: 50px;
-
     width: 100px;
-
 }
-
- 
 
 #ret_dois {
-
     width: 2px;
-
     height: 8px;
-
     background-color: #404040;
-
     position: relative;
-
     left: 210px;
-
     bottom: 20px;
-
- 
-
 }
-
- 
 
 #p_perguntas {
-
     font-size: 12px;
-
     font-family: 'Roboto', sans-serif;
-
     color: #cfcfcf;
-
     margin-top: -36px;
-
     margin-left: 220px;
-
 }
-
- 
 
 #ret_tres {
-
     width: 2px;
-
     height: 8px;
-
     background-color: #404040;
-
     position: relative;
-
     left: 210px;
-
     top: 35px;
-
 }
-
- 
 
 #p_vagas {
-
     font-size: 12px;
-
     font-family: 'Roboto', sans-serif;
-
     color: #cfcfcf;
-
     position: relative;
-
     top: 19px;
-
     margin-left: 220px;
-
 }
-
- 
 
 #ret_quatro {
-
     width: 2px;
-
     height: 8px;
-
     background-color: #404040;
-
     position: relative;
-
     left: 40px;
-
 }
 
- 
-
 #p_pgmto {
-
     font-size: 12px;
-
     font-family: 'Roboto', sans-serif;
-
     color: #cfcfcf;
-
     margin-top: -15px;
-
     margin-left: 50px;
-
 }
